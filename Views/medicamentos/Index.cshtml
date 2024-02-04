@@ -1,0 +1,139 @@
+﻿@model IEnumerable<ClinicaMVC.Models.medicamentos>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .container {
+        text-align: center;
+    }
+
+    .table {
+        margin: auto;
+    }
+
+        .table th,
+        .table td {
+            text-align: center;
+        }
+
+    .action-link {
+        display: inline-block;
+        padding: 6px 12px;
+        margin-bottom: 0;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 1.42857143;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        cursor: pointer;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        text-decoration: none;
+    }
+
+    .action-link-default {
+        color: #333;
+        background-color: #fff;
+        border-color: #ccc;
+    }
+
+        .action-link-default:hover {
+            color: #fff;
+            background-color: #428bca;
+            border-color: #357ebd;
+        }
+
+    .action-link-warning {
+        color: #fff;
+        background-color: #f0ad4e;
+        border-color: #eea236;
+    }
+
+        .action-link-warning:hover {
+            color: #fff;
+            background-color: #ec971f;
+            border-color: #d58512;
+        }
+
+    .btn {
+        display: inline-block;
+        padding: 6px 12px;
+        margin-bottom: 0;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 1.42857143;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        cursor: pointer;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        text-decoration: none;
+    }
+
+    .btn-default {
+        color: #333;
+        background-color: #fff;
+        border-color: #ccc;
+    }
+
+        .btn-default:hover {
+            color: #fff;
+            background-color: #428bca;
+            border-color: #357ebd;
+        }
+</style>
+
+<p>
+</p>
+<div class="container">
+    <div class="tab" role="tabpanel">
+        <div class="table-responsive" style="background-color:white">
+            <table class="table table-striped mb-0">
+                <thead style="background-color: #CD5237;">
+                <th colspan="9" class="text-center" style="color: white;">MEDICAMENTOS</th>
+                </thead>
+                <tr>
+                    <th colspan="9" class="text-center">
+                        <p>
+                            @Html.ActionLink("Nuevo", "Create", new { @class = "btn btn-default" })
+                        </p>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Tipo)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tipo)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.IdMedicamento }, new { @class = "action-link action-link-default" }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.IdMedicamento }, new { @class = "action-link action-link-default" }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.IdMedicamento }, new { @class = "action-link action-link-default" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+
+    </div>
+</div>
+

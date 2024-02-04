@@ -1,0 +1,16 @@
+﻿@model ClinicaMVC.Models.medicos
+
+@{
+    var imgText = "";
+    if (Model.Foto.EndsWith("no_sello.jpg"))
+    {
+        imgText = "No existe la imagen para: " + Model.Nombre.Trim();
+    }
+    else
+    {
+        imgText = "Imagen de: " + Model.Nombre.Trim();
+    }
+}
+
+<img src="/imagenes/Sellos/@Model.Foto" class="img-fluid" title="@imgText" />
+

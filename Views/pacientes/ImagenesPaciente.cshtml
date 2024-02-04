@@ -1,0 +1,16 @@
+﻿@model ClinicaMVC.Models.pacientes
+
+@{
+    var imgText = "";
+    if (Model.Foto.EndsWith("usu00.jpg"))
+    {
+        imgText = "No existe la imagen para: " + Model.Nombre.Trim();
+    }
+    else
+    {
+        imgText = "Imagen de: " + Model.Nombre.Trim();
+    }
+}
+
+<img src="/imagenes/Usuarios/@Model.Foto" class="img-fluid" title="@imgText" />
+

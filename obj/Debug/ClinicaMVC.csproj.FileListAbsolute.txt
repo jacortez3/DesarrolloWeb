@@ -1,0 +1,708 @@
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ClinicaMVC\obj\Debug\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\ProyectoVeris_MVC\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Owin.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\SegundoParcial\ProyectoVeris_MVC_Final\obj\Debug\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\ClinicaMVC.dll.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\ClinicaMVC.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csi.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csi.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\csi.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.AppContext.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Console.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Net.Http.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.ValueTuple.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\vbc.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\vbc.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\vbc.rsp
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Antlr3.Runtime.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Newtonsoft.Json.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Owin.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Helpers.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Mvc.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Optimization.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\WebGrease.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Helpers.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Mvc.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Optimization.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\System.Web.WebPages.Razor.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Newtonsoft.Json.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Antlr3.Runtime.pdb
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\EntityFramework.SqlServer.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.Helpers.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.Mvc.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.Optimization.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.AssemblyReference.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CoreCompileInputs.cache
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.csproj.CopyComplete
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.dll
+C:\temp\DesarrolloWeb\PROYECTO SEGUNDO PARCIAL\PROYECTO VERIS FINAL FINAL\ProyectoVeris_MVC\obj\Debug\ClinicaMVC.pdb

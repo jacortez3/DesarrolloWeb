@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "ADMINISTRADOR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ADMINISTRADOR</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            FOTO
+        </dt>
+
+        <dd>
+            @Html.Partial("ImagenADM")
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back", "Index")
+</p>

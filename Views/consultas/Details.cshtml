@@ -1,0 +1,89 @@
+﻿@model ClinicaMVC.Models.consultas
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DETALLES</h2>
+
+<div>
+    <h4>CONSULTAS</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaConsulta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaConsulta)
+        </dd>
+
+        <dt>
+            Hora Inicio
+        </dt>
+
+        <dd>
+            @if (Model.HI < new TimeSpan(7, 0, 0) || Model.HI > new TimeSpan(12, 0, 0))
+            {
+                var a = Model.HI;
+                <text>@a</text>
+                <text>PM</text>
+            }
+            else
+            {
+                var b = Model.HI;
+                <text>@b</text>
+                <text>AM</text>
+            }
+        </dd>
+
+        <dt>
+            Hora Fin
+        </dt>
+
+        <dd>
+            @if (Model.HF < new TimeSpan(7, 0, 0) || Model.HF > new TimeSpan(12, 0, 0))
+            {
+                var a = Model.HF;
+                <text>@a</text>
+                <text>PM</text>
+            }
+            else
+            {
+                var b = Model.HF;
+                <text>@b</text>
+                <text>AM</text>
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Diagnostico)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Diagnostico)
+        </dd>
+
+        <dt>
+            Paciente
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pacientes.Nombre)
+        </dd>
+
+        <dt>
+            Medico
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.medicos.Nombre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.IdConsulta }) |
+    @Html.ActionLink("Regresar a la Lista", "Index")
+</p>
